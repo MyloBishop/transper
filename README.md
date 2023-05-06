@@ -17,7 +17,7 @@ You can install them using pip:
 ```
 pip install -r requirements.txt
 ```  
-Note: It is highly reccomended to use GPU for whisper transcription. If you have a CUDA enabled GPU, please download the correct version from [Here](https://pytorch.org/get-started/previous-versions/)  
+Note: It is highly reccomended to use GPU for whisper transcription. If you have a CUDA enabled GPU, please download the correct version from [here](https://pytorch.org/get-started/previous-versions/)  
 
 ## Usage
 To run the script, simply execute the main.py file:  
