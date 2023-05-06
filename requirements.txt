@@ -1,0 +1,3 @@
+torch
+pyaudiowpatch
+faster-whisper
